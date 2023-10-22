@@ -18,7 +18,7 @@ In the course of developing this application, I have learned and implemented the
 ● User authentication and registration processes.
 ● Utilizing Firebase for password reset functionality.
 ● Interactive user interfaces with dropdown menus and input validation.
-● Handling and displaying data retrieved from external sources, such as open-source APIs.
+● Handling and displaying data retrieved from external sources, such as open-source APIs. 
 ● Implementing a shopping cart system with options to save and clear the cart.
 ● Calculating tax based on the location and order subtotal.
 ● Creating a responsive design for various screens and devices.
