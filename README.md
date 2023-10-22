@@ -23,4 +23,6 @@ In the course of developing this application, I have learned and implemented the
 ● Calculating tax based on the location and order subtotal.
 ● Creating a responsive design for various screens and devices.
 
+<img width="242" alt="login" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/0c186b81-ef18-4b76-b375-01a127f2e2c0">
+
 This Camera Retail Application provides a seamless shopping experience for users interested in purchasing cameras from leading brands. It is a testament to my progress as a developer and my ability to create user-centric applications.
