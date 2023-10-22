@@ -29,10 +29,8 @@ In the course of developing this application, I have learned and implemented the
 <img width="230" alt="home" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/c535baa6-3b4a-4cdc-888a-235ac4347d03">
 <img width="230" alt="brands" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/ad83faa5-ba50-48d5-8043-80073770923d">
 <img width="274" alt="item descrioption" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/4b53c8f2-a928-40ab-83a2-847dff6666ed">
-<img width="726" alt="image saving in db" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/fe35ab35-2190-4ef0-a30c-6db2d36a3568">
 <img width="214" alt="cart" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/9a41d271-c6db-4f23-95ca-7762617a5bdc">
 <img width="216" alt="cart saved" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/e7e3b638-1990-45dc-adb1-72f29e72f96d">
-
 <img width="198" alt="branches" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/62eafc59-154c-48c2-b6e1-b62738d6d6dc">
 <img width="196" alt="branches icon" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/6fc0863e-eb23-42a6-92b6-ec837420b90c">
 <img width="190" alt="logout" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/2019c803-8060-4fa1-a5d5-83c9ff95e883">
