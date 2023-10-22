@@ -1,0 +1,3 @@
+﻿SELECT * FROM Orders ORDER BY Id DESC;
+SELECT * FROM OrderLineItems ORDER BY OrderID DESC;
+SELECT * FROM Products ORDER BY BrandId;
