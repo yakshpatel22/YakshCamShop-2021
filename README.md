@@ -9,10 +9,10 @@ Features
 5. Branches: Users can find the three closest stores by entering their postal code. This data is retrieved from an open-source API. When the user hovers over a store, its address is displayed.
 6. Logout: Logging out from the session is as simple as clicking the "Logout" option.
 
-Project Duration
+Project Duration:-
 This project was completed over a span of 3 months, encompassing the following key features and functionalities.
 
-Learning Outcomes
+Learning Outcomes:-
 In the course of developing this application, I have learned and implemented the following key aspects of software development:
 
 ● User authentication and registration processes.
