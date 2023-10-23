@@ -1,6 +1,6 @@
-# YakshCam-Shop-Capturing-Memories-Since-2021
+#  YakshCam-Shop - Capturing Memories Since 2021 📷🌐🔍
 
-Welcome to YakshCam-Shop, your go-to destination for all things camera-related! We've been capturing memories since 2021, and this repository showcases our Camera Retail Application, developed using C#, HTML, and T-SQL. The application is hosted on Amazon AWS and offers a user-friendly interface for exploring and purchasing cameras from renowned brands like Canon, Nikon, and Sony.
+Welcome to YakshCam-Shop, your go-to destination for all things camera-related! We've been capturing memories since 2021, and this repository showcases our Camera Retail Application, developed using C#, HTML, and T-SQL. The application is hosted on Amazon AWS and offers a user-friendly interface for exploring and purchasing cameras from renowned brands like Canon, Nikon, and Sony. 🚀💻🔍
 <img width="242" alt="login" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/0c186b81-ef18-4b76-b375-01a127f2e2c0">
 <img width="232" alt="register" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/4b2602c3-d791-4690-b31f-67a652df6188">
 <img width="242" alt="home" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/c535baa6-3b4a-4cdc-888a-235ac4347d03">
