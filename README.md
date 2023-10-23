@@ -32,7 +32,7 @@ In the course of developing this application, I have learned and implemented the
 <img width="242" alt="cart saved" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/e7e3b638-1990-45dc-adb1-72f29e72f96d">
 <img width="242" alt="branches" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/62eafc59-154c-48c2-b6e1-b62738d6d6dc">
 <img width="242" alt="branches icon" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/6fc0863e-eb23-42a6-92b6-ec837420b90c">
-<img width="252" alt="logout" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/2019c803-8060-4fa1-a5d5-83c9ff95e883">
+<img width="300" alt="logout" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/2019c803-8060-4fa1-a5d5-83c9ff95e883">
 
 
 This Camera Retail Application provides a seamless shopping experience for users interested in purchasing cameras from leading brands. It is a testament to my progress as a developer and my ability to create user-centric applications.
