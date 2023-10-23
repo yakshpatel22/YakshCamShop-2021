@@ -6,7 +6,7 @@ Features
 2. Home Page: The application's home page displays the camera application icon. Users can select a brand from a dropdown menu, including Canon, Nikon, and Sony, to explore the available cameras.
 3. Camera Details: Upon selecting a brand and camera model, users can view the camera's price, and description, and adjust the quantity they want to purchase. They can add the selected camera to their cart or view their cart for an overview.
 4. Cart Page: The cart page displays the items in the user's cart, listing their names, quantities, MSRP (Manufacturer's Suggested Retail Price), and extended prices. The subtotal, tax (set at 13% for Ontario), and total are also shown. Users can save their carts to the database or clear the selected items.
-5. Branches: Users can find the three closest stores by entering their postal code. This data is retrieved from an open-source API. When the user hovers over a store, its address is displayed.
+5. Branches: Users can find the three closest stores by entering their postal code. This data is retrieved from an open-source API named TomTom from https://developer.tomtom.com/ . When the user hovers over a store, its address is displayed.
 6. Logout: Logging out from the session is as simple as clicking the "Logout" option.
 
 Project Duration:-
