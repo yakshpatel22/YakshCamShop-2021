@@ -54,4 +54,5 @@ In the course of developing this application, I've acquired and implemented key 
 <img width="242" alt="branches" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/62eafc59-154c-48c2-b6e1-b62738d6d6dc">
 <img width="242" alt="branches icon" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/6fc0863e-eb23-42a6-92b6-ec837420b90c">
 <img width="242" alt="logout" src="https://github.com/yakshpatel22/YakshCam-Shop-Capturing-Memories-Since-2021/assets/94410692/2019c803-8060-4fa1-a5d5-83c9ff95e883">
-YakshCam-Shop is more than just a retail application; it's your gateway to capturing moments and preserving memories. This Camera Retail Application provides a seamless shopping experience for users interested in purchasing cameras from leading brands. It is a testament to my progress as a developer and my ability to create user-centric applications.
+
+- YakshCam-Shop is more than just a retail application; it's your gateway to capturing moments and preserving memories. This Camera Retail Application provides a seamless shopping experience for users interested in purchasing cameras from leading brands. It is a testament to my progress as a developer and my ability to create user-centric applications.
